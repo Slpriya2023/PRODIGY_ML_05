@@ -1,0 +1,2 @@
+This project, developed during my internship at Prodigy Infotech, focuses on creating a machine learning model capable of accurately recognizing food items from images and estimating their calorie content. The primary goal is to enable users to effortlessly track their dietary intake and make informed food choices. By leveraging advanced computer vision techniques and a robust dataset, this model aims to provide accurate and reliable nutritional information, helping users maintain a healthy lifestyle.
+
